@@ -1584,7 +1584,7 @@ center():
 
 ```python
 >>> spam = 'SpamSpamBaconSpamEggsSpamSpam'
->>> spam.strip('ampS')
+>>> spam.strip('Spam')
 
 'BaconSpamEggs'
 ```
